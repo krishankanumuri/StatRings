@@ -6,4 +6,4 @@ Orinally developed by [@theacequerium](https://github.com/theaquarium). This rep
 Original repo : https://github.com/theaquarium/StatRings
 
 ## Installing
-The watch face is available for download [here](https://gallery.fitbit.com/details/4e26dc82-4a54-4699-88f5-447f2284ab10).
+The watch face is available for download [here](https://gallery.fitbit.com/details/1f8952e0-f110-43ab-b096-5bb601dfdc3d).
