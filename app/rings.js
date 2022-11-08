@@ -3,8 +3,8 @@ import { statColors, iconPaths } from '../common/consts';
 import { getSettings } from './settings';
 import { getStatValue, getGoalValue } from './utils';
 
-const vw = 336;
-const vh = 336;
+const vw = 300;
+const vh = 300;
 
 const rings = [];
 
@@ -113,7 +113,7 @@ export function setupRings() {
   const options = {
     ringThickness: 14,
     ringSpacing: 3,
-    outerRingSize: 164,
+    outerRingSize: 144,
     bottomSpacing: 10,
     rightSpacing: 4,
     iconRightSpacing: 0,
