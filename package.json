@@ -3,7 +3,7 @@
     "@fitbit/sdk": "~4.3.0"
   },
   "fitbit": {
-    "appUUID": "4e26dc82-4a54-4699-88f5-447f2284ab10",
+    "appUUID": "1f8952e0-f110-43ab-b096-5bb601dfdc3d",
     "appType": "clockface",
     "appDisplayName": "StatRings",
     "iconFile": "resources/icon.png",
